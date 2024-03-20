@@ -5,6 +5,6 @@
       src="/img/avatar.jpg" />
     
     <div>热爱Coding，生命不息，折腾不止</div>
-    <div>羽毛球狂人，冲刺中羽五级 ...</div>
+    <div>天文爱好者，无线电Ham，业余画家 ...</div>
   </div>
 </template>
