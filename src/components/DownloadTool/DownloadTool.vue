@@ -49,9 +49,9 @@ function handleClick() {
 
 function downloadPdf() {
   let $el = document.createElement('a')
-  $el.href = 'http://resume.fridolph.top/fuyinsheng-webFE.pdf'
+  $el.href = '/web_fuyinsheng_8y_.pdf'
   $el.target = '_blank'
-  $el.download = `付寅生-本科8年-Web前端.pdf`
+  $el.download = `孙振宇-简历.pdf`
   document.body.appendChild($el)
   $el.click()
   document.body.removeChild($el)
