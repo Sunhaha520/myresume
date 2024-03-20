@@ -49,7 +49,7 @@ function handleClick() {
 
 function downloadPdf() {
   let $el = document.createElement('a')
-  $el.href = '/web_fuyinsheng_8y_.pdf'
+  $el.href = '/web_sunzhenyu_8y_.pdf'
   $el.target = '_blank'
   $el.download = `孙振宇-简历.pdf`
   document.body.appendChild($el)
