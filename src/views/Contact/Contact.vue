@@ -4,18 +4,18 @@
     icon="lianxi">
     <RowContent
       label="手机"
-      text="16602835945" />
+      text="15251239262" />
     <RowContent
       label="邮箱"
-      text="249121486@qq.com" />
+      text="dereksunmo@163.com" />
     <RowContent
       link
       label="Github"
-      text="https://github.com/Fridolph" />
+      text="https://github.com/Sunhaha520" />
     <RowContent
       link
       label="技术博客"
-      text="http://blog.fridolph.top" />
+      text="http://www.xiaoayu.ren" />
   </Section>
 </template>
 
