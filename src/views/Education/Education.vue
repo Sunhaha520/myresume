@@ -4,9 +4,15 @@
     anchor="Education"
     icon="peixunjiaoyu">
     <RowContent
-      label="四川大学锦江学院 / 通信工程"
+      label="澳门大学 / 土木工程"
       :label-bold="true"
-      text="2012年9月——2016年6月"
+      text="2024年9月——2026年6月"
+      align="right"
+      :is-wrap="true" />
+    <RowContent
+      label="南京林业大学 / 土木工程"
+      :label-bold="true"
+      text="2019年9月——2023年6月"
       align="right"
       :is-wrap="true" />
   </Section>
