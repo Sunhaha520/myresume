@@ -16,9 +16,7 @@
     bold />
 
   <ProEdr />
-  <ProAdmin />
-  <ProLarge />
-  <ProTeam />
+
 </template>
 
 <script setup lang="ts">
@@ -26,9 +24,7 @@ import { ref } from 'vue'
 import RowContent from '../../../components/RowContent/RowContent.vue'
 import ListWrap from '../../../components/ListWrap/ListWrap.vue'
 import ProEdr from './ProEdr.vue'
-import ProAdmin from './ProAdmin.vue'
-import ProLarge from './ProLarge.vue'
-import ProTeam from './ProTeam.vue'
+
 
 const list = ref([
   '1. 海外平台 (Facebook) 运营，负责广告投放，优化广告投放策略，提升产品及品牌曝光率；',
