@@ -4,12 +4,12 @@
     title="广告数据分析策略"
     description="一套完整的广告数据分析策略，包括数据收集，数据清洗，探索性数据分析（EDA），建立基准线，A/B测试，ROI分析，趋势分析，用户行为分析。">
     <template #lib>
-      <Button plain type="info" size="small">Vue2</Button>      
-      <Button plain type="info" size="small">iView</Button>
-      <Button plain type="info" size="small">Vxe-Table</Button>
-      <Button plain type="info" size="small">Vue-i18n</Button>
-      <Button plain type="info" size="small">Echarts</Button>
-      <Button plain type="info" size="small">D3.js</Button>
+      <Button plain type="info" size="small">Python</Button>      
+      <Button plain type="info" size="small">SPSS</Button>
+      <Button plain type="info" size="small">Excel</Button>
+      <Button plain type="info" size="small">Stata</Button>
+      <Button plain type="info" size="small">HTML</Button>
+      <Button plain type="info" size="small">CSS</Button>
     </template>
     <ListWrap
       title="主要贡献："
@@ -18,7 +18,7 @@
       bold />
 
     <ListWrap
-      title="项目难点："
+      title="工作难点："
       :list="hardList"
       inner
       bold />
